@@ -1,0 +1,192 @@
+.logo{
+   
+    flex-shrink: 0;
+    background: lightgray 50% / contain no-repeat;
+
+}
+.HeadPara{
+
+    flex-shrink:0 ;
+    color: #000;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; 
+    text-transform: uppercase;
+    background-color: #0396E2;
+}
+.radio{
+    text-transform:none;
+}
+.input{
+    
+    flex-shrink: 0;
+    border-radius: 6px;
+    border: 1px solid #959595;
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.btn{
+    color: #000;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #FECD05;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.bg{
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid rgba(15, 15, 15, 0.267);
+    position: sticky;
+    top: 0;
+    color: #000;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 132%;
+    text-transform: capitalize;
+}
+.main-para{
+    color: #000;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 38px; 
+}
+.about{
+    background: #F5F5F5;
+    color: #000;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+.words{
+    justify-content: space-around;
+    
+}
+.content{
+    color: #000;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 161%;
+}
+
+  .line-button {
+    position: relative;
+    padding: 10px 20px;
+    background-color: #FECD05;
+    color: #111010;
+    border: none;
+    border-radius: 35px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 123%;
+    text-transform: capitalize;
+  }
+  
+  .line {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 2px;
+    height: 100%;
+    background-color: #fdfcfc;
+    transform: translateX(-50%);
+    
+}
+  
+.main-para1{
+    color: #000;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 45px; 
+    background: #F5F5F5;
+}
+.backgrnd{
+    background: #F5F5F5;
+}
+.letter{
+    color: #000;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+.footer-para{
+    color: #000;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 45px; 
+}
+.footer-para1{
+    color: #000;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 64px;
+}   
+.Number{
+    color: #000;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 45px;
+    border-radius: 26.5px;
+    border: 1px solid rgba(0, 0, 0, 0.71);
+    background: rgba(255, 255, 255, 0.72);
+
+}
+.contact{
+    color: #000;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+.address{
+    color: #000;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+}
+.last{
+    
+    background: #D9D9D9;
+    color: #000;
+    text-align: center;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+  
